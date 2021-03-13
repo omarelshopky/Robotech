@@ -3,8 +3,8 @@
 
 Project Scenario:
 
-    * make a fixed password in the code and use the keypad 	to write the successful password.
-    * Make option to change password by press a particular button.
+  * make a fixed password in the code and use the keypad 	to write the successful password.
+  * Make option to change password by press a particular button.
 
 ![S2T1](https://github.com/omarhesham2/Robotech/blob/main/Basic_Arduino/Session2/Task1/Task1.png)
 
