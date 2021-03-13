@@ -2,6 +2,7 @@
 ## Task 1
 
 Project Scenario:
+
     * make a fixed password in the code and use the keypad 	to write the successful password.
     * Make option to change password by press a particular button.
 
