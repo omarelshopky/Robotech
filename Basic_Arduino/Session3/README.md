@@ -1,5 +1,5 @@
 # Session 3
-## [Task 1](https://github.com/omarhesham2/Robotech/blob/main/Basic_Arduino/Session3/T1Code.ion)
+## [Task 1](https://github.com/omarhesham2/Robotech/blob/main/Basic_Arduino/Session3/T1Code.ino)
 **Task scenario:**
 By using keypad:
   * when pressing button (1) Enter the range of  LDR sensor 
